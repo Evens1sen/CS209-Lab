@@ -1,4 +1,4 @@
-package tutorial.lab7;
+package practice.lab7;
 
 
 public class DepositThread implements Runnable {

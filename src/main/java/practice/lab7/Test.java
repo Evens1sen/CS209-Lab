@@ -1,4 +1,4 @@
-package tutorial.lab7;
+package practice.lab7;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
